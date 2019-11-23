@@ -1,0 +1,12 @@
+.Frame {
+  /* Layout */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  /* Style */
+  background-color: #282c34;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
